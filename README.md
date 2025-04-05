@@ -19,3 +19,30 @@ Developed an annual business insights report for Passion Trends Store using cust
 📱 Find the channel contributing to maximum sales <br> <br>
 🛒 Identify the highest selling category <br> <br>
 🖱   Dashboard Interaction <a href="https://github.com/chinababu-n/Data-Analysis-Dashboard/blob/main/Data%20analysis-Dash%20board.png">View Dashboard</a>
+
+## 🔧 Data Analysis Process
+
+📥 Imported raw data into Excel from multiple sources
+
+🧹 Cleaned the data by removing duplicates and correcting inconsistent entries
+
+❓ Handled missing values using appropriate methods (e.g., blank fill, zero, or average)
+
+🔠 Standardized data formats (dates, text cases, number formats, etc.)
+
+📊 Created structured tables for easy data management
+
+🔄 Built multiple Pivot Tables for dynamic summarization
+
+🔗 Merged relevant Pivot Tables for combined analysis
+
+📈 Designed Pivot Charts to visualize key metrics
+
+🎯 Applied slicers and filters for interactive data exploration
+
+🧩 Linked dashboards with Pivot Tables for real-time insights
+
+🎨 Customized visuals with conditional formatting and chart styling
+
+✅ Validated results to ensure data accuracy and consistency
+
