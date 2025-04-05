@@ -74,4 +74,7 @@ Developed an annual business insights report for Passion Trends Store using cust
 
 - Western Dress and Top categories likely drove higher sales
 
+## 🧾 Conclusion
+This project successfully transformed raw sales data into meaningful insights using Excel dashboards. Through data cleaning, pivot analysis, and visualization, key trends such as top-performing months, customer demographics, and regional sales contributions were identified. The interactive dashboard allows users to explore sales performance by month, gender, age, channel, and product category — empowering Passion Trends Store to make informed business decisions and plan strategic growth for 2023 and 2024.
+
 
