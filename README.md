@@ -58,6 +58,20 @@ Developed an annual business insights report for Passion Trends Store using cust
 
 ![Data analysis-Dash board](https://github.com/user-attachments/assets/52f83292-205f-4215-a6df-25ca514a3a51)
 
+## 📊 Dashboard Insights
 
+🟠 March recorded the highest sales and order volume in 2022.
+
+👩 Women accounted for 63% of the purchases, while men made up 37%.
+
+📦 Delivered orders dominated at 92%, with minimal cancellations and returns.
+
+🗺️ Maharashtra, Karnataka, and Uttar Pradesh were the top 3 sales-contributing states.
+
+👥 Adult women were the most active buyers, especially compared to teenage and senior groups.
+
+🛍️ Amazon was the leading sales channel with 35.5% share, followed by Flipkart and Meesho.
+
+🧥 Western Dress and Top categories likely drove higher sales
 
 
