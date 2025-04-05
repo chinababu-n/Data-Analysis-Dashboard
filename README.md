@@ -10,14 +10,14 @@ Developed an annual business insights report for Passion Trends Store using cust
 
 ## 📌 Key KPIs for 2022 Sales Report
 
-📊 Compare sales and orders using a single chart <br>
-🗓️ Identify the month with the highest sales and orders <br>
-👥 Determine who purchased more – men or women in 2022 <br>
-📦 List different order statuses recorded in 2022 <br>
-🗺️ Top 5 states contributing to total sales <br>
-👤 Analyze relation between age and gender based on purchase count <br>
-📱 Find the channel contributing to maximum sales <br>
-🛒 Identify the highest selling category <br>
+📊 Compare sales and orders using a single chart <br> <br>
+🗓️ Identify the month with the highest sales and orders <br> <br>
+👥 Determine who purchased more – men or women in 2022 <br> <br>
+📦 List different order statuses recorded in 2022 <br> <br>
+🗺️ Top 5 states contributing to total sales <br> <br>
+👤 Analyze relation between age and gender based on purchase count <br> <br>
+📱 Find the channel contributing to maximum sales <br> <br>
+🛒 Identify the highest selling category <br> <br>
 
 ## Dashboard
 
