@@ -46,3 +46,10 @@ Developed an annual business insights report for Passion Trends Store using cust
 
 ✅ Validated results to ensure data accuracy and consistency
 
+## 📊 Dashboard
+
+![Data analysis-Dash board](https://github.com/user-attachments/assets/52f83292-205f-4215-a6df-25ca514a3a51)
+
+
+
+
