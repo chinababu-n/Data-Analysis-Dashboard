@@ -6,3 +6,4 @@ I built an end-to-end project in Excel, featuring interactive dashboards and dyn
 Developed an annual business insights report for Passion Trends Store using customer data from 2022, aimed at understanding buyer behavior and driving strategic growth for 2023 and 2024.
 
 ## Dataset used
+<a href="https://github.com/chinababu-n/Data-Analysis-Dashboard/blob/main/Passion%20Trends%20Data%20Analysis.xlsx">Dataset</a>
