@@ -18,7 +18,4 @@ Developed an annual business insights report for Passion Trends Store using cust
 👤 Analyze relation between age and gender based on purchase count <br> <br>
 📱 Find the channel contributing to maximum sales <br> <br>
 🛒 Identify the highest selling category <br> <br>
-
-## Dashboard
-
-<a href="https://github.com/chinababu-n/Data-Analysis-Dashboard/blob/main/Data%20analysis-Dash%20board.png">Dashboard</a>
+🖱   Dashboard Interaction <a href="https://github.com/chinababu-n/Data-Analysis-Dashboard/blob/main/Data%20analysis-Dash%20board.png">View Dashboard</a>
