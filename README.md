@@ -10,23 +10,23 @@ Developed an annual business insights report for Passion Trends Store using cust
 
 ## 📌 Key KPIs for 2022 Sales Report
 
-📊 Compare sales and orders using a single chart
+- Compare sales and orders using a single chart
 
-🗓️ Identify the month with the highest sales and orders
+- Identify the month with the highest sales and orders
 
-👥 Determine who purchased more – men or women in 2022
+- Determine who purchased more – men or women in 2022
 
-📦 List different order statuses recorded in 2022
+- List different order statuses recorded in 2022
 
-🗺️ Top 5 states contributing to total sales
+- Top 5 states contributing to total sales
 
-👤 Analyze relation between age and gender based on purchase count
+- Analyze relation between age and gender based on purchase count
 
-📱 Find the channel contributing to maximum sales
+- Find the channel contributing to maximum sales
 
-🛒 Identify the highest selling category
+- Identify the highest selling category
 
-🖱   Dashboard Interaction <a href="https://github.com/chinababu-n/Data-Analysis-Dashboard/blob/main/Data%20analysis-Dash%20board.png">View Dashboard</a>
+-   Dashboard Interaction <a href="https://github.com/chinababu-n/Data-Analysis-Dashboard/blob/main/Data%20analysis-Dash%20board.png">View Dashboard</a>
 
 ## 🔧 Data Analysis Process
 
